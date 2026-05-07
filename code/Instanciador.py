@@ -101,6 +101,13 @@ def generarInstancia(tipo, num, carpeta_objetivo):
     H = []
     for _ in range(num_J):
         H.append(random.randint(150, 600))
+
+    #Ajustamos la capacidad de Cds aumentando le 50 si es que son muy pequeños para ello flujo de demandas
+    H_ordenado = sorted(H, reverse=True)
+    while sum(H_ordenado[:p_max]) <= demanda_total:
+        for i in range(num_J):
+            H[i] = H[i] + 50
+        H_ordenado = sorted(H, reverse=True)
     
     # Numero maximo de CDs simultaneos, para evita soluciones triviales debe ser menor al total de CD disponibles
     p_max = random.randint(max(2, num_J // 3), num_J - 1)

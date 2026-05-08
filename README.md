@@ -8,7 +8,7 @@
 >
 > **Integrantes:**
 > * Vicente Rodríguez Rogers | 21.303.222-4 | 202273503-1 
-> * a 
+> * Javier Gana Muñoz        | 21.343.407-1 | 202373540-k 
 > * a
 > * a
 
@@ -47,3 +47,7 @@
 enlace al proyecto se encuentra a continuación: [proyecto](https://www.overleaf.com/9233446427bvdxbxhtkjkt#c4a623)
 -Para los datos factibles se siguio los datos entregados en la tabla para los valores de p, CD y ZD. y para el resto
 se tomo datos arbitrarios que mas o menos se ajusten proporcionalmente a los demas datos.
+
+##  Supuestos
+- Se asume que se mantiene la estructura del repositorio, haciendo énfasis específicamente en la existencia de la carpeta Instancias/ dentro de code/ , ya que el script de python asume que sí existe.
+- Para asegurar el correcto funcionamiento del script de python, en la terminal se debe estar en la carpeta code/ antes de ejecutar el comando make.

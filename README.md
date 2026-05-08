@@ -9,7 +9,7 @@
 > **Integrantes:**
 > * Vicente Rodríguez Rogers | 21.303.222-4 | 202273503-1 
 > * Javier Gana Muñoz        | 21.343.407-1 | 202373540-k 
-> * Matias Obando Carrillo   | 21.303.222-4 | 202273503-1 
+> * Matias Obando Carrillo   | 21.564.491-k | 202404531-8 
 > * a
 
 ---

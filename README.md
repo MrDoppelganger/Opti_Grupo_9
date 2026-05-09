@@ -34,6 +34,8 @@
     ├── Instanciador.py: Codigo encargado de crear todas las instancias aleatorias
     └── Makefile
 ├── Docs
+    ├── Informe-Grupo-9.pdf: Informe de la entrega 1
+    └── Entrega_1__optimizacion: Latex del informe de la entrega 1
 └── README.md
 ```
     
@@ -45,8 +47,9 @@
 ##  Consideraciones
 - El informe fue Creado en base a latex desde el editor Overleaf que permite trabajar cooperativamente. El
 enlace al proyecto se encuentra a continuación: [proyecto](https://www.overleaf.com/9233446427bvdxbxhtkjkt#c4a623)     
--Para los datos factibles se siguio los datos entregados en la tabla para los valores de p, CD y ZD. y para el resto
+- Para los datos factibles se siguio los datos entregados en la tabla para los valores de p, CD y ZD. y para el resto
 se tomo datos arbitrarios que mas o menos se ajusten proporcionalmente a los demas datos.
+- El proyecto se encuentra en el siguiente repositorio de github: [repositorio](https://github.com/MrDoppelganger/Opti_Grupo_9.git)
 
 ##  Supuestos
 - Se asume que se mantiene la estructura del repositorio, haciendo énfasis específicamente en la existencia de la carpeta Instancias/ dentro de code/ , ya que el script de python asume que sí existe.
